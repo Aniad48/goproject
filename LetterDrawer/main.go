@@ -1,0 +1,4 @@
+package LetterDrawer
+
+func main() {
+}
